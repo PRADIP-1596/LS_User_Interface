@@ -82,6 +82,7 @@ function Design() {
 </div>
 
 </div>
+
 <div class="wrappermame">
    <div class="search" placeholder="What are you looking for?">
 
@@ -102,7 +103,8 @@ function Design() {
    </div>
 </div>
 
-
+<div id="finder" type="text" placeholder="search term">
+</div>
       </div>
   );
 }
